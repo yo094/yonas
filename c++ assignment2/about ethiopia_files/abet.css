@@ -1,0 +1,43 @@
+body{
+    background-image: url(./selasie.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+a{
+    text-decoration: none;
+    color: whitesmoke;
+}
+a:hover{
+    color: tomato;
+}
+.main-footer{
+    background-color: darkgoldenrod;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: auto;
+    list-style: none;
+    background-attachment: scroll;
+
+}
+.main-footer ul{
+    color:#000;
+    text-decoration: solid underline;
+    text-transform: uppercase;
+    text-shadow: dodgerblue;
+}
+.main-footer li{
+    color: #fff;
+    text-decoration: solid;
+    text-transform: uppercase;
+    margin: 10px;
+}
+    
+.sub-footer-1{
+    color: wheat;
+}
+.sub-footer-2{
+    color: wheat;
+    text-align:right;
+}
+
